@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST
+Makefile.PL
+README
+lib/Data/Dumper/Concise/Aligned.pm
+t/Data-Dumper-Concise-Aligned.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
