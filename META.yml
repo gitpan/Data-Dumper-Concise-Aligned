@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Data-Dumper-Concise-Aligned
-version:            0.20
+version:            0.21
 abstract:           even less indentation plus string prefix
 author:
     - Jeremy Mates <jmates@cpan.org>
