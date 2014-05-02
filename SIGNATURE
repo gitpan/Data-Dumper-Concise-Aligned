@@ -1,0 +1,37 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 5af545c218bf29dd2f3c9202e292c2116254d035 Changes
+SHA1 846252ea9428ead5a9f387bcd843958f5759609c LICENSE
+SHA1 5632297a6ce4e5fd036f3eb1d072b8b0c60b6a45 MANIFEST
+SHA1 5d941cbaa794403a33d5db99c3d3665aaed6383a META.json
+SHA1 4632cb3298476392bae327b50516e3a81e92b95c META.yml
+SHA1 14272204aabe5e2d4e02c92ff214b9b814552dee Makefile.PL
+SHA1 8b49cecd4c3ad5c3bd6dd4aeb901ed5fdcd86fbf README
+SHA1 4baf87359a1ab3ee1e324d321b8a5b5dcc15bf6f lib/Data/Dumper/Concise/Aligned.pm
+SHA1 7e1f48a22edf2bd1ce1f3f3d71e27972c6888dd7 t/Data-Dumper-Concise-Aligned.t
+SHA1 3ef65383d82f059f56f43236663119c01974decb t/pod.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJTYw99AAoJEDTEVWqwTuCUADoH/0CaZYhkCEPvgghlwOi8Kovw
+S2/xpV0M6wv6Zwn7vU0+FA8cMEULxM2TaN1qADqQH7R4wFcx3hl6pWD6zHG6unXD
+nzXSX4v9m3mdspLaHkX3Q5FRdX/nZBMOc8h0FaGVoIRreHJC3FxVe3C3WW4ecSxQ
+aI+Lk1TEPl4pnF476BxjtRjs2MBppzCXpmCismS/3dznGh/gk4VlBbh63S1jqXAO
+c7RA3hEovaWV83wY70UdlVI7a2ip30H6451pVTg9CH0PQ7OxLovQLcJfDMvUZRYt
+xOxozy2XYPEOoQjlCbGf73hk/kPavfhYxd7102tIFNGRASnhT8EDSDeX0AV0Gok=
+=DRyE
+-----END PGP SIGNATURE-----
